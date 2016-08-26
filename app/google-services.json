@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "205267552572",
+    "firebase_url": "https://karlesproject.firebaseio.com",
+    "project_id": "karlesproject",
+    "storage_bucket": "karlesproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205267552572:android:49f149e1a86080f3",
+        "android_client_info": {
+          "package_name": "ca.kgb.simplefirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "205267552572-rnntqpohebgqmhs7psfq95euprqa9jql.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6BjgVxqFHa7mkbjvO8CmyxzSzB5kyjSQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
